@@ -1,1 +1,1 @@
-Fuzzy c-means clustering with dynamic time warping distance of unequally sized, multivariate time series. 
+Understanding clustering more deeply by implementing clustering schemes from scratch. 
